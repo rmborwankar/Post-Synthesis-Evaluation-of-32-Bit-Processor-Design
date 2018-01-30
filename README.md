@@ -2,4 +2,6 @@
 A 32-bit processor and synthesized it through the Synopsys Design Compiler and generated power and area report.
 
 
-THE FOLDER INCLUDES RTL AND POST SYNTHESIS FILES.
+THE FOLDER CONSISTS OF POST SYNTHESIS FILES.
+
+The parameter n can be changed to anything. The design is has n as 8 but can be changed to 32.
